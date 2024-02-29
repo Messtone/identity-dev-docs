@@ -3,12 +3,12 @@
 ## Tech Stack
 Messtone/identity-dev-docs is built on the following main stack:
 
-- [CircleCI](https://circleci.com/) – Continuous Integration
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [Jekyll](http://jekyllrb.com/) – Static Site Generators
-- [RSpec](https://rspec.info/) – Testing Frameworks
+- [CircleCI](https://circleci.com/) – Continuous Integration
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [RSpec](https://rspec.info/) – Testing Frameworks
+- [Jekyll](http://jekyllrb.com/) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Messtone/identity-dev-docs is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Messtone/identity-dev-docs](https://github.com/Messtone/identity-dev-docs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|01/05/24 <br/>Report generated|
+|11<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -138,7 +138,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[jekyll-redirect-from](https://rubygems.org/jekyll-redirect-from)|v0.16.0|09/21/20|Mitchell Henke |MIT|N/A|
-|[nokogiri](https://rubygems.org/nokogiri)|v1.13.10|02/14/20|Snyk bot |MIT|[](https://github.com/advisories/GHSA-pxvg-2qj5-37jq) (Moderate)|
+|[nokogiri](https://rubygems.org/nokogiri)|v1.13.10|02/14/20|Snyk bot |MIT|[](https://github.com/advisories/GHSA-xc9x-jj77-9p9j) (Moderate)<br/>[](https://github.com/advisories/GHSA-pxvg-2qj5-37jq) (Moderate)|
 
 <br/>
 <div align='center'>

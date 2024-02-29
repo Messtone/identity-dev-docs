@@ -2,7 +2,7 @@ repo_name: Messtone/identity-dev-docs
 report_id: 46bed250cdd9f7aa9264c19788122d39
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:31:55+00:00'
+timestamp: '2024-02-29T18:55:22+00:00'
 requested_by: orenyk
 provider: github
 branch: main
@@ -147,6 +147,12 @@ tools:
   last_updated_by: Snyk bot
   last_updated_on: 2020-02-14 17:38:50.000000000 Z
   vulnerabilities:
+  - name: Nokogiri update packaged libxml2 to v2.12.5 to resolve CVE-2024-25062
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-xc9x-jj77-9p9j
+    detected_date: Feb 6
+    severity: moderate
+    first_patched: 1.16.2
   - name: Nokogiri updates packaged libxml2 to v2.10.4 to resolve multiple CVEs
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-pxvg-2qj5-37jq
